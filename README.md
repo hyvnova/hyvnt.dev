@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -36,3 +37,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+=======
+# hyvnt.dev
+Literally the contents of hyvnt.dev. Please don't steal it 🙏🥀
+>>>>>>> 4c3afe879d83b7c188394881f112b76c2d52f61d
